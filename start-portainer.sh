@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker compose up -d -f portainer/docker-compose.yml
+docker compose up  -f ./portainer/docker-compose.yml -d
