@@ -1,0 +1,1 @@
+docker exec mongo1 /scripts/create-user-root.sh

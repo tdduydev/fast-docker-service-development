@@ -19,6 +19,11 @@ Start service Mongodb
 
 ```./start-mongo.sh```
 
+```
+usernameRoot: userRoot
+PasswrokRoot: RmRoY0AxMjM=
+```
+
 ------------
 Start service portainer 
 
