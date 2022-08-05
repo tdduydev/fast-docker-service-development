@@ -13,3 +13,13 @@ docker version
 
 docker compose version 
 ```
+
+------------
+Start service Mongodb 
+
+```./start-mongo.sh```
+
+------------
+Start service portainer 
+
+```./start-portainer.sh```
