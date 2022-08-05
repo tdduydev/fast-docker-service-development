@@ -20,7 +20,7 @@ Start service Mongodb
 ```./start-mongo.sh```
 
 ```
-usernameRoot: userRoot
+usernameRoot: userAdmin
 PasswrokRoot: RmRoY0AxMjM=
 ```
 
