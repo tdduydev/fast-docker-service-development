@@ -1,3 +1,5 @@
 #!/bin/bash
 
-compose up -d -f portainer/docker-compose.yml
+cd portainer
+docker compose down
+docker compose up -d 
